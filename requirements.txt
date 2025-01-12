@@ -1,4 +1,4 @@
-ansible==2.8.12
+ansible==8.5.0
 pyyaml
 packaging
 passlib
